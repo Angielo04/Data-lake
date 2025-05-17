@@ -1,6 +1,6 @@
 # Datalake
 
-El Datalake en la base de datos Datalake.dbo está diseñado para almacenar información estructurada relacionada en este caso con departamentos, municipios y registros de homicidios. Este conjunto de datos facilita el análisis geográfico y estadístico de diferentes entidades territoriales y eventos registrados. A continuación, se describen las principales tablas y sus funciones:
+El Datalake en la base de datos Datalake.dbo está diseñado para almacenar información estructurada relacionada en este caso con la creación de las tablas departamentos, municipios y homicidios. Este conjunto de datos facilita el análisis geográfico y estadístico de diferentes entidades territoriales y eventos registrados. A continuación, se describen las principales tablas y sus funciones:
 
 1. Tabla dl_departamentos:
 - Contiene información sobre los departamentos del país.
